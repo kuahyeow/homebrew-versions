@@ -1,8 +1,8 @@
 class Mariadb100 < Formula
   desc "Drop-in replacement for MySQL"
   homepage "https://mariadb.org/"
-  url "https://mirrors.ocf.berkeley.edu/debian/pool/main/m/mariadb-10.0/mariadb-10.0_10.0.22.orig.tar.gz"
-  sha256 "9e17f4aaccb7069a874555cca254974d0f0103f0ad5e2434acab6aa353dafc7b"
+  url "https://mirrors.ocf.berkeley.edu/debian/pool/main/m/mariadb-10.0/mariadb-10.0_10.0.23.orig.tar.gz"
+  sha256 "156eed69892834be66736aebe0a17a76d5031fd1c2f481a82228ff33bb7ba274"
 
   bottle do
     sha256 "9c7708fa9341ea3706d6347db70defeed2de0089ec374f35a9ac9e166388478c" => :el_capitan
